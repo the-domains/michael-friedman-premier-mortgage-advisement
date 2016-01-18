@@ -2,6 +2,7 @@ name: Michael Friedman Premier Mortgage Advisement
 favicon: null
 layout_spectrum: 0.5613739457912743
 typography_spectrum: 0.06908429064787924
+title: Michael Friedman Premier Mortgage Advisment
 cta:
   domain: null
   bucket: null
@@ -21,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3921054764650762
-  lightness: 0.9557988692540675
-  saturation: 0.35662032081745565
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.125
   rhythmicContrast: 0.6587577990721911
 purpose: []
